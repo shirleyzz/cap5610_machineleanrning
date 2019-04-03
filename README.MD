@@ -1,1 +1,1 @@
-This a repository for assignment1.
+This a repository for HW1 and HW2.
